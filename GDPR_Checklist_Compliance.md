@@ -46,5 +46,11 @@ Gunakan checklist ini untuk memastikan proyek Anda memenuhi standar GDPR.
 
 Legal Source: 
 
-1. https://gdpr.eu/checklist/
-2. https://gdpr-info.eu/
+1. checklist: https://gdpr.eu/checklist/
+2. original: https://gdpr-info.eu/
+3. cookie library: https://github.com/orestbida/cookieconsent
+4. https://gdprchecklist.io/
+5. db tools: https://github.com/baserow/baserow
+6. letter template: https://github.com/aeris/gdpr
+7. open-source compliance platform: https://github.com/getprobo/probo
+8. GDPR-compliant tools: https://github.com/erichard/awesome-gdpr
